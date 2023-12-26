@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farazAlidev
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in Full stack Web Dev
+- 🌱 I’m currently learning System design
 - 📫 How to reach me farazalidev@gmail.com
 
 <!---
